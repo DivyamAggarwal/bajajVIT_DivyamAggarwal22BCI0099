@@ -4,11 +4,16 @@
 - **Registration Number:** 22BCI0099  
 - **Email:** [mailtodivyam1@gmail.com](mailto:mailtodivyam1@gmail.com)  
 
-## Overview
+## API Overview
 
-This documentation outlines the functionality and usage of a REST API for processing arrays of mixed data types. The API can separate numbers, alphabets, and special characters from input arrays, perform calculations, and return structured responses.
+This documentation outlines the functionality and usage of a REST API for processing arrays of mixed data types.  
+The API can separate numbers, alphabets, and special characters from input arrays, perform calculations, and return structured responses.
 
-**Live API URL:** https://bajaj-vit-divyam-aggarwal22-bci-009.vercel.app/bfhl
+### Live API Endpoints  
+- **Base URL:** [https://bajaj-vit-divyam-aggarwal22-bci-009.vercel.app](https://bajaj-vit-divyam-aggarwal22-bci-009.vercel.app)  
+- **Process Endpoint (BFHL):** [https://bajaj-vit-divyam-aggarwal22-bci-009.vercel.app/bfhl](https://bajaj-vit-divyam-aggarwal22-bci-009.vercel.app/bfhl)  
+- **Health Check Endpoint:** [https://bajaj-vit-divyam-aggarwal22-bci-009.vercel.app/health](https://bajaj-vit-divyam-aggarwal22-bci-009.vercel.app/health)  
+
 
 
 
@@ -183,6 +188,7 @@ Accessing the base URL in a web browser or through a GET request confirms that t
 - **Deployment Platform:** Vercel
 - **Testing Tools:** Postman/cURL
 - **Version Control:** Git
+
 
 
 
